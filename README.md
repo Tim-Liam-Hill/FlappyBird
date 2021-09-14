@@ -4,7 +4,7 @@
 # FlappyBird
 The classic 2013 bird-flapping game
 
-<img align="center" src="readmeAssets/flappyBirdEdited.png" alt="Maze.png" />
+<img align="center" src="/readmeAssets/flappyBirdEdited.png" alt="FlappyBirdEdited.png" />
 
 ### Description
 
