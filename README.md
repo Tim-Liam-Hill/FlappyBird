@@ -1,0 +1,2 @@
+# FlappyBird
+A long time ago, I challenged myself to write flappy bird in a day. Using processing, I managed to achieve this goal. At the time, I was still new to programming and was not aware that I could save code to github. Consequently, I lost this code for a while but since I have recently managed to locate it again, I thought I would share what a far less experienced me was able to accomplish. 
